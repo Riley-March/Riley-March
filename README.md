@@ -14,10 +14,10 @@ _🔜 Coming soon! Keep an eye on this space for updates on my latest projects._
 
 ## 🌐 Find me online
 
-- 🌍 Visit my [portfolio website](https://your-portfolio-website.com)
+- 🌍 Visit my [portfolio website](https://rileymarch.dev)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/riley-march/)
 - 📧 Email me at [riley.j.march@outlook.com](mailto:riley.j.march@outlook.com)
 
 ## 📈 GitHub Stats
 
-![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=riley-march&show_icons=true&theme=radical)
